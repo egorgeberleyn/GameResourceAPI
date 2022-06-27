@@ -13,3 +13,4 @@ global using System.Text;
 global using GameResourceAPI.Models;
 global using GameResourceAPI.Data;
 global using GameResourceAPI.Auth;
+global using GameResourceAPI.Apis;
